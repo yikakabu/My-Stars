@@ -15,22 +15,17 @@
 ***
 5. **Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects**  
     * [Office Code](https://github.com/NVlabs/Deep_Object_Pose)
-    
 ***
 6. **SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again**  
     * [Office Code](https://github.com/wadimkehl/ssd-6d)
-    
 ***
 7. **Real-Time Object Pose Estimation with Pose Interpreter Networks**  
     * [Office Code](https://github.com/jimmyyhwu/pose-interpreter-networks)
-    
 ***
 8. **PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes**  
     * [Office Code](https://github.com/yuxng/PoseCNN)
-    
 ***
 9. **LabelFusion: A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes**  
     * [Office Code](https://github.com/RobotLocomotion/LabelFusion)
-    
 ***
 ## Visual Tracking
