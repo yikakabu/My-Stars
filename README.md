@@ -30,5 +30,5 @@
     
 10. **PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation**  
     * [Office Code](https://github.com/zju3dv/pvnet)
-    * [Office Code](https://github.com/zju3dv/pvnet-rendering)
+    * [Rendering Tool](https://github.com/zju3dv/pvnet-rendering)
 ## Visual Tracking
